@@ -1,0 +1,38 @@
+body{
+font-family: 'josefin Sans, sans-serif';
+}
+
+
+.texto{
+    position: relative;
+bottom: 85vh;
+    width: 50%;
+    height: 90vh;
+}
+
+
+
+p{
+    color: pink;
+}
+
+input{
+border-color: lightpink;
+height: 5vh;
+width: 20vw;
+border-radius: 20px;
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+span{
+    color: lightpink;
+    font-weight: 300;
+}
+#hero{
+    margin-left: 50%;
+    margin-right: 15vw;
+}
